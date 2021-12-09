@@ -1,0 +1,26 @@
+{
+  "name": "Ekuid",
+  "version": "1.0.0",
+  "description": "This is the application",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js && node app2.js && node app3.js && node app4.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelpanjaitan/Ekuid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelpanjaitan/Ekuid/issues"
+  },
+  "homepage": "https://github.com/joelpanjaitan/Ekuid#readme"
+}
